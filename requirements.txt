@@ -1,0 +1,6 @@
+# Pinned to official Fetch.ai Innovation Lab example specification
+uagents==0.25.5
+openai>=1.60.0
+python-dotenv>=1.0.1
+pydantic>=2.10.0
+pytest>=8.0.0
