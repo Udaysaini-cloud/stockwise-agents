@@ -1,0 +1,251 @@
+[
+  {
+    "id": "SUP-001",
+    "name": "Bharat Tech Distribution",
+    "location": "Mumbai, Maharashtra",
+    "delivery_charge": 250.0,
+    "catalog": {
+      "ELEC-USB-001": {
+        "unit_cost": 85.0,
+        "lead_time_days": 2,
+        "moq": 20,
+        "pack_size": 10,
+        "available": true
+      },
+      "ELEC-PWR-002": {
+        "unit_cost": 290.0,
+        "lead_time_days": 2,
+        "moq": 10,
+        "pack_size": 5,
+        "available": true
+      },
+      "ELEC-AUD-003": {
+        "unit_cost": 750.0,
+        "lead_time_days": 3,
+        "moq": 5,
+        "pack_size": 1,
+        "available": false
+      },
+      "ELEC-BNK-004": {
+        "unit_cost": 620.0,
+        "lead_time_days": 2,
+        "moq": 5,
+        "pack_size": 1,
+        "available": true
+      },
+      "ELEC-MIC-005": {
+        "unit_cost": 310.0,
+        "lead_time_days": 2,
+        "moq": 10,
+        "pack_size": 5,
+        "available": true
+      },
+      "ELEC-OTG-006": {
+        "unit_cost": 45.0,
+        "lead_time_days": 2,
+        "moq": 20,
+        "pack_size": 10,
+        "available": true
+      },
+      "ELEC-MNT-007": {
+        "unit_cost": 160.0,
+        "lead_time_days": 2,
+        "moq": 5,
+        "pack_size": 1,
+        "available": true
+      },
+      "ELEC-HUB-013": {
+        "unit_cost": 380.0,
+        "lead_time_days": 3,
+        "moq": 5,
+        "pack_size": 1,
+        "available": true
+      }
+    }
+  },
+  {
+    "id": "SUP-002",
+    "name": "Zenith Electronics Supply Co",
+    "location": "Bengaluru, Karnataka",
+    "delivery_charge": 180.0,
+    "catalog": {
+      "ELEC-USB-001": {
+        "unit_cost": 92.0,
+        "lead_time_days": 4,
+        "moq": 10,
+        "pack_size": 5,
+        "available": true
+      },
+      "ELEC-PWR-002": {
+        "unit_cost": 275.0,
+        "lead_time_days": 4,
+        "moq": 10,
+        "pack_size": 5,
+        "available": true
+      },
+      "ELEC-AUD-003": {
+        "unit_cost": 780.0,
+        "lead_time_days": 3,
+        "moq": 4,
+        "pack_size": 2,
+        "available": true
+      },
+      "ELEC-MIC-005": {
+        "unit_cost": 325.0,
+        "lead_time_days": 3,
+        "moq": 5,
+        "pack_size": 5,
+        "available": true
+      },
+      "ELEC-SPK-008": {
+        "unit_cost": 650.0,
+        "lead_time_days": 4,
+        "moq": 4,
+        "pack_size": 2,
+        "available": true
+      },
+      "ELEC-GAM-011": {
+        "unit_cost": 280.0,
+        "lead_time_days": 3,
+        "moq": 5,
+        "pack_size": 1,
+        "available": true
+      },
+      "ELEC-HUB-013": {
+        "unit_cost": 365.0,
+        "lead_time_days": 4,
+        "moq": 6,
+        "pack_size": 2,
+        "available": true
+      },
+      "ELEC-WCH-014": {
+        "unit_cost": 420.0,
+        "lead_time_days": 3,
+        "moq": 4,
+        "pack_size": 1,
+        "available": true
+      }
+    }
+  },
+  {
+    "id": "SUP-003",
+    "name": "Kalyan Bulk Hardware Mart",
+    "location": "New Delhi, Delhi",
+    "delivery_charge": 350.0,
+    "catalog": {
+      "ELEC-USB-001": {
+        "unit_cost": 72.0,
+        "lead_time_days": 5,
+        "moq": 50,
+        "pack_size": 25,
+        "available": true
+      },
+      "ELEC-OTG-006": {
+        "unit_cost": 38.0,
+        "lead_time_days": 5,
+        "moq": 50,
+        "pack_size": 25,
+        "available": true
+      },
+      "ELEC-CLN-009": {
+        "unit_cost": 70.0,
+        "lead_time_days": 4,
+        "moq": 20,
+        "pack_size": 10,
+        "available": true
+      },
+      "ELEC-AUX-010": {
+        "unit_cost": 55.0,
+        "lead_time_days": 4,
+        "moq": 20,
+        "pack_size": 10,
+        "available": true
+      },
+      "ELEC-PAD-012": {
+        "unit_cost": 140.0,
+        "lead_time_days": 5,
+        "moq": 15,
+        "pack_size": 5,
+        "available": true
+      },
+      "ELEC-ORG-015": {
+        "unit_cost": 40.0,
+        "lead_time_days": 4,
+        "moq": 40,
+        "pack_size": 20,
+        "available": true
+      },
+      "ELEC-BNK-004": {
+        "unit_cost": 550.0,
+        "lead_time_days": 6,
+        "moq": 35,
+        "pack_size": 5,
+        "available": true
+      }
+    }
+  },
+  {
+    "id": "SUP-004",
+    "name": "RapidExpress Logistics & Wholesale",
+    "location": "Chennai, Tamil Nadu",
+    "delivery_charge": 150.0,
+    "catalog": {
+      "ELEC-USB-001": {
+        "unit_cost": 105.0,
+        "lead_time_days": 1,
+        "moq": 5,
+        "pack_size": 1,
+        "available": true
+      },
+      "ELEC-PWR-002": {
+        "unit_cost": 315.0,
+        "lead_time_days": 1,
+        "moq": 5,
+        "pack_size": 1,
+        "available": true
+      },
+      "ELEC-AUD-003": {
+        "unit_cost": 820.0,
+        "lead_time_days": 1,
+        "moq": 2,
+        "pack_size": 1,
+        "available": true
+      },
+      "ELEC-MIC-005": {
+        "unit_cost": 340.0,
+        "lead_time_days": 1,
+        "moq": 5,
+        "pack_size": 1,
+        "available": true
+      },
+      "ELEC-CLN-009": {
+        "unit_cost": 85.0,
+        "lead_time_days": 1,
+        "moq": 5,
+        "pack_size": 1,
+        "available": true
+      },
+      "ELEC-AUX-010": {
+        "unit_cost": 65.0,
+        "lead_time_days": 1,
+        "moq": 5,
+        "pack_size": 1,
+        "available": true
+      },
+      "ELEC-GAM-011": {
+        "unit_cost": 320.0,
+        "lead_time_days": 1,
+        "moq": 2,
+        "pack_size": 1,
+        "available": true
+      },
+      "ELEC-HUB-013": {
+        "unit_cost": 410.0,
+        "lead_time_days": 1,
+        "moq": 2,
+        "pack_size": 1,
+        "available": true
+      }
+    }
+  }
+]

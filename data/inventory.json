@@ -1,0 +1,167 @@
+[
+  {
+    "sku": "ELEC-USB-001",
+    "name": "Braided USB-C Fast Charging Cable (1m)",
+    "category": "Cables & Adapters",
+    "current_stock": 4,
+    "average_daily_sales": 6.0,
+    "outstanding_orders": 0,
+    "safety_stock": 10,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-PWR-002",
+    "name": "20W PD Dual-Port Wall Charger",
+    "category": "Power & Chargers",
+    "current_stock": 2,
+    "average_daily_sales": 3.5,
+    "outstanding_orders": 0,
+    "safety_stock": 8,
+    "target_stock_cover_days": 6,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-AUD-003",
+    "name": "Wireless TWS Earbuds with ANC",
+    "category": "Audio",
+    "current_stock": 1,
+    "average_daily_sales": 2.0,
+    "outstanding_orders": 0,
+    "safety_stock": 5,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-BNK-004",
+    "name": "10000mAh Ultra-Slim Power Bank",
+    "category": "Power & Chargers",
+    "current_stock": 5,
+    "average_daily_sales": 1.5,
+    "outstanding_orders": 0,
+    "safety_stock": 4,
+    "target_stock_cover_days": 10,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-MIC-005",
+    "name": "High-Speed 64GB MicroSDXC Card (UHS-I)",
+    "category": "Storage",
+    "current_stock": 3,
+    "average_daily_sales": 2.5,
+    "outstanding_orders": 0,
+    "safety_stock": 6,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-OTG-006",
+    "name": "Type-C to USB-A 3.0 OTG Adapter",
+    "category": "Cables & Adapters",
+    "current_stock": 8,
+    "average_daily_sales": 3.0,
+    "outstanding_orders": 0,
+    "safety_stock": 5,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-MNT-007",
+    "name": "Magnetic Air Vent Car Phone Mount",
+    "category": "Accessories",
+    "current_stock": 12,
+    "average_daily_sales": 1.0,
+    "outstanding_orders": 0,
+    "safety_stock": 4,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-SPK-008",
+    "name": "Compact IPX6 Bluetooth Speaker (5W)",
+    "category": "Audio",
+    "current_stock": 6,
+    "average_daily_sales": 0.8,
+    "outstanding_orders": 0,
+    "safety_stock": 3,
+    "target_stock_cover_days": 10,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-CLN-009",
+    "name": "Screen Cleaner Spray Kit with Microfiber Cloth",
+    "category": "Accessories",
+    "current_stock": 15,
+    "average_daily_sales": 1.2,
+    "outstanding_orders": 0,
+    "safety_stock": 5,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-AUX-010",
+    "name": "Braided 3.5mm Male-to-Male Audio Aux Cable",
+    "category": "Cables & Adapters",
+    "current_stock": 7,
+    "average_daily_sales": 1.5,
+    "outstanding_orders": 0,
+    "safety_stock": 4,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-GAM-011",
+    "name": "Ergonomic USB Gaming Mouse (3200 DPI)",
+    "category": "Peripherals",
+    "current_stock": 4,
+    "average_daily_sales": 1.0,
+    "outstanding_orders": 0,
+    "safety_stock": 3,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-PAD-012",
+    "name": "Anti-Slip Extended Desk Mousepad",
+    "category": "Peripherals",
+    "current_stock": 9,
+    "average_daily_sales": 0.7,
+    "outstanding_orders": 0,
+    "safety_stock": 3,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-HUB-013",
+    "name": "4-Port USB 3.0 Ultra-Slim Hub",
+    "category": "Peripherals",
+    "current_stock": 2,
+    "average_daily_sales": 1.8,
+    "outstanding_orders": 0,
+    "safety_stock": 4,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-WCH-014",
+    "name": "15W Qi Fast Wireless Charging Pad",
+    "category": "Power & Chargers",
+    "current_stock": 8,
+    "average_daily_sales": 0.6,
+    "outstanding_orders": 0,
+    "safety_stock": 2,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  },
+  {
+    "sku": "ELEC-ORG-015",
+    "name": "Silicone Cable Organizer Clips (Pack of 6)",
+    "category": "Accessories",
+    "current_stock": 20,
+    "average_daily_sales": 2.0,
+    "outstanding_orders": 0,
+    "safety_stock": 5,
+    "target_stock_cover_days": 7,
+    "unit": "piece"
+  }
+]
